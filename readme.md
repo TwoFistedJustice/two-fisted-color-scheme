@@ -20,10 +20,9 @@ Download the .icls file and import it into your color schemes settings in Websto
 👤 **Russ Bain**
 
 ## Contributing Code
+Have a look at the Overview project and find something to take on. 
 
-Right now, it inherits most of its settings from "Default". It would be cool to have it be fully encapsulated. So if you feel like making that happen, coolzers.
-
-Also, I couldn't find the setting to change the hyperlink color in the console. So if you happen to know where THAT little gem is hidden...
+If you have a feature request, create a new Issue and give it the enhancement tag.
 
 Make sure that your editor is configured per our Style Guide. All contributions should be made on a new branch. Push your new branch and then create a pull request. This will trigger a number of actions and queue up your commits for review.
 
