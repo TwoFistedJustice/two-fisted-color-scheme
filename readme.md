@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
 
-> "Color scheme for WebStorm."
+> "Light and Dark color scheme for WebStorm."
 
 ## About
 This is a combination light/dark color scheme because I like to have my Editor look different from the rest of the interface.
