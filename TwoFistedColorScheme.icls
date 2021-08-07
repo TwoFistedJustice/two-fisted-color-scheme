@@ -1,0 +1,124 @@
+<scheme name="TwoFistedColorScheme" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2021-08-06T19:01:28</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2021.2.0.0</property>
+    <property name="modified">2021-08-06T19:01:51</property>
+    <property name="originalScheme">TwoFistedColorScheme</property>
+  </metaInfo>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="FILESTATUS_ADDED" value="91b859" />
+    <option name="FILESTATUS_COPIED" value="91b859" />
+    <option name="FILESTATUS_DELETED" value="808080" />
+    <option name="FILESTATUS_HIJACKED" value="ffb62c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="91b859" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_MERGED" value="7c4dff" />
+    <option name="FILESTATUS_MODIFIED" value="39adb5" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="39adb5" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="39adb5" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="b0bec5" />
+    <option name="FILESTATUS_SWITCHED" value="7c4dff" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="91b859" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="6182b8" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2c96ee" />
+      </value>
+    </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+      </value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="3c3c3c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="3c3c3c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="BACKGROUND" value="eee626" />
+        <option name="EFFECT_COLOR" value="ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="7a1014" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="299999" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cc666e" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="abc023" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5394ec" />
+      </value>
+    </option>
+    <option name="REGEXP.BRACES">
+      <value>
+        <option name="FOREGROUND" value="64492a" />
+      </value>
+    </option>
+    <option name="REGEXP.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="64492a" />
+      </value>
+    </option>
+    <option name="REGEXP.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="64492a" />
+      </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="414141" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
