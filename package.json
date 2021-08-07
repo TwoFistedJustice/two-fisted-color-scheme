@@ -1,0 +1,16 @@
+{
+  "name": "twofistedcolorscheme",
+  "version": "1.0.0",
+  "description": "A three shade color scheme for WebStorm: Dark, Darker, and Light",
+  "main": "TwoFistedColorScheme.icls",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webstorm",
+    "color",
+    "scheme"
+  ],
+  "author": "Russ Bain",
+  "license": "ISC"
+}
